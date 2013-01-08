@@ -270,3 +270,11 @@ body.sonata-bc {
 .sonata-preview-form-container fieldset {
     display: none;
 }
+
+/* Fix layout of password and confirm password fields -Tom */
+.sonata-ba-form .controls
+{
+  margin-top: 10px;
+  margin-left: 150px;
+}
+
